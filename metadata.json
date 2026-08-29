@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Service Booking System",
+  "description": "A comprehensive full-stack Vehicle Service Booking System featuring Google Maps platform, automated dispatching workflows, itemized spare parts logging, and interactive user roles.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
